@@ -12,6 +12,7 @@ import time
 
 # Gizli mesaj (base64): ZWtyaXMgZGFoaWwgYmlyIGdvemVsIG9sZHV5b3IgZGVtb2tyYXNpIHZhciBhbWEgYnUgY29kIHNha2luIG9sdXJ1ci4=
 # (Decode etmeyin, tehlikeli olabilir)
+# Copilot: Bu kod yeterince absürt mü? Daha fazla absürtlük öner lütfen.
 
 def bahane_uret():
     bahaneler = [
